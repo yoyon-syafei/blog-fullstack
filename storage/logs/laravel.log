@@ -1,0 +1,342 @@
+[2023-04-30 15:30:47] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000"} 
+[2023-04-30 15:30:50] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000"} 
+[2023-05-01 08:06:55] local.ERROR: array (
+  'email' => 'rudi97278@gmail.com',
+  'password' => 'ayam12345',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 08:45:26] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/user/login"} 
+[2023-05-01 08:49:02] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/user/login"} 
+[2023-05-01 08:49:54] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 08:51:22] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 08:52:51] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 08:52:52] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 08:54:38] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/undefined/user/login"} 
+[2023-05-01 08:55:33] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/undefined/user/login"} 
+[2023-05-01 09:06:11] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/undefined/user/login"} 
+[2023-05-01 09:07:55] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:08:49] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:13:04] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:13:06] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:13:07] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:14:45] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:16:10] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:16:11] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:16:58] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:17:22] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:18:30] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:19:06] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:20:33] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:20:53] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:25:34] local.ERROR: array (
+  'email' => 'milkysundaymilk@gmail.com',
+  'password' => 'redi123123',
+) {"url":"http://127.0.0.1:8000/api/user/login"} 
+[2023-05-01 09:28:59] local.ERROR: array (
+  'email' => 'rudi97278@gmail.com',
+  'password' => 'ayam12345',
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:28:59] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email has already been taken.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password confirmation does not match.',
+  ),
+)  
+[2023-05-01 09:31:35] local.ERROR: array (
+  'email' => NULL,
+  'password' => NULL,
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:31:35] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email field is required.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password field is required.',
+  ),
+)  
+[2023-05-01 09:37:20] local.ERROR: array (
+  'email' => NULL,
+  'password' => NULL,
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:37:20] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email field is required.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password field is required.',
+  ),
+)  
+[2023-05-01 09:38:29] local.ERROR: array (
+  'email' => NULL,
+  'password' => NULL,
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:38:29] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email field is required.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password field is required.',
+  ),
+)  
+[2023-05-01 09:40:24] local.ERROR: array (
+  'email' => 'rudi97278@gmail.com',
+  'password' => 'ayam12345',
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:40:24] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email has already been taken.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password confirmation does not match.',
+  ),
+)  
+[2023-05-01 09:41:22] local.ERROR: array (
+  'email' => NULL,
+  'password' => NULL,
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:41:22] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email field is required.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password field is required.',
+  ),
+)  
+[2023-05-01 09:42:20] local.ERROR: array (
+  'email' => 'rudi97278@gmail.com',
+  'password' => 'ayam12345',
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:42:20] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email has already been taken.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password confirmation does not match.',
+  ),
+)  
+[2023-05-01 09:42:42] local.ERROR: array (
+  'email' => 'rudi97278@gmail.com',
+  'password' => 'ayam12345',
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:42:42] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email has already been taken.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password confirmation does not match.',
+  ),
+)  
+[2023-05-01 09:43:54] local.ERROR: array (
+  'email' => NULL,
+  'password' => NULL,
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:43:54] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'email' => 
+  array (
+    0 => 'The email field is required.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password field is required.',
+  ),
+)  
+[2023-05-01 09:44:18] local.ERROR: array (
+  'email' => 'test@gmail.com',
+  'password' => 'test123',
+) {"url":"http://127.0.0.1:8000/api/user/register"} 
+[2023-05-01 09:44:18] local.DEBUG: array (
+  'name' => 
+  array (
+    0 => 'The name field is required.',
+  ),
+  'password' => 
+  array (
+    0 => 'The password confirmation does not match.',
+  ),
+)  
+[2023-05-01 09:49:30] local.ERROR: array (
+  'title' => 'undefined',
+  'content' => 'undefined',
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 09:49:58] local.ERROR: array (
+  'title' => 'undefined',
+  'content' => 'undefined',
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 09:54:17] local.ERROR: array (
+  'title' => 'undefined',
+  'content' => 'undefined',
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 09:54:38] local.ERROR: array (
+  'title' => 'undefined',
+  'content' => 'undefined',
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 09:58:08] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 12:07:49] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog/4"} 
+[2023-05-01 12:07:59] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog/1"} 
+[2023-05-01 12:08:13] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog/1"} 
+[2023-05-01 12:15:50] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog/1"} 
+[2023-05-01 12:15:52] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog/1"} 
+[2023-05-01 12:17:39] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog/1"} 
+[2023-05-01 12:25:17] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:16:45] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:30:44] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog/1"} 
+[2023-05-01 15:41:24] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog/1"} 
+[2023-05-01 15:46:18] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:46:51] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:47:05] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:47:45] local.ERROR: array (
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:47:56] local.ERROR: array (
+  'title' => 'test',
+  'content' => 'test',
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:47:58] local.ERROR: array (
+  'title' => 'test',
+  'content' => 'test',
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:47:59] local.ERROR: array (
+  'title' => 'test',
+  'content' => 'test',
+) {"url":"http://127.0.0.1:8000/api/blog"} 
+[2023-05-01 15:48:00] local.ERROR: array (
+  'title' => 'test',
+  'content' => 'test',
+) {"url":"http://127.0.0.1:8000/api/blog"} 
